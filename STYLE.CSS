@@ -1,0 +1,43 @@
+header{
+background-color:pink;
+border: 1px solid black;
+}
+
+nav{
+    background-color: aquamarine;
+    border:1px solid black;
+}
+#Intro{
+    background-color:gold;
+    border: 1px solid black;
+}
+.myteachers{
+    background-color: blue;
+    color: white;
+    border: 1px solid black
+}
+
+.BookReview{
+     background-color:darkolivegreen;
+    color: white;
+    border: 1px solid black
+}
+.table1{
+    color: white;
+    background-color: rgb(139, 121, 18);
+border: 1px solid black
+}
+#video{
+color: white;
+    background-color: rgb(139, 18, 74);
+border: 1px solid black
+}
+#Sellers{
+    color: white;
+    background-color: rgb(139, 18, 18);
+border: 1px solid black
+}
+#footer{
+    background-color: rgb(6, 248, 188);
+border: 1px solid black
+}
